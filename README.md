@@ -6,4 +6,4 @@ The data used for the experiment is in the folder above, where the TSP, VRP inst
 # A real life VRP instance
 ![image](https://github.com/Anonymous-author-code/Alpha-VRP/blob/main/1.jpg)
 # The complete flow diagram of training pipeline
-![image]()
+![image](https://github.com/Anonymous-author-code/Alpha-VRP/blob/main/AlphaVRP1.png)
