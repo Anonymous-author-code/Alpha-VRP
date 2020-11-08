@@ -7,5 +7,4 @@ The data used for the experiment is in the folder above, where the TSP, VRP inst
 ![image](https://github.com/Anonymous-author-code/Alpha-VRP/blob/main/1.jpg)
 # The complete flow diagram of training pipeline
 ![image](https://github.com/Anonymous-author-code/Alpha-VRP/blob/main/AlphaVRP1.png)
-# Image problem
-If the image does not display, you can try to change DNS, for example: 180.76.76.76, 8.8.8.8, or 8.8.4.4.
+
